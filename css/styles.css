@@ -16,6 +16,13 @@ h2,h4{
 h4{
     font-size: 1rem;
 }
+.images{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    height: 20rem;
+    text-align: center;
+    color:white;
+    padding-top:9%;
+}
 
 
 
