@@ -34,6 +34,13 @@ h4{
 .col{
     width: 5rem;
 }
+.container{
+    text-align: center;
+}
+.contacts{
+ background-image: url(../assets/backgrounds/c_image.jpg);
+ height:40rem;
+}
 
 
                           
