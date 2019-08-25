@@ -53,6 +53,14 @@ ul{
 h5{
     text-align: center;
 }
+.design,.product,.development{
+    display:none;
+    cursor: pointer;
+
+}
+.design-image,.dev-image,.prod-image{
+cursor: pointer;
+}
 
 
                           
