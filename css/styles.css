@@ -101,6 +101,9 @@ cursor: pointer;
     font-size: 16px;
     padding: 16px 32px;
   }
+  input{
+      margin: 5%;
+  }
 
 
                           
