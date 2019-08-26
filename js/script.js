@@ -28,10 +28,47 @@ $(".product").click(function(){
 $("#button").click(function(){
     event.preventDefault();
 });
+<<<<<<< HEAD
 $("#forms").submit(function(){
       alert("Thanks for contacting us");
       event.preventDefault();
   });
+
+
+
+
+  
+
+
+
+
+    
+
+          
+
+
+=======
+
+  $("#button").click(function(event){
+      event.preventDefault();
+
+      var email = $("#email").val();
+
+      if($("#name").val()=== ""){
+          alert("input name");
+      }
+      else if($("#email").val()=== ""){
+          alert("input email")
+      }
+      else if($("#message").val()=== ""){
+          alert("Thanks for contacting us")
+      }
+      else{
+          alert(email + " Thanks for contacting us")
+      }
+>>>>>>> master
+
+  })
 
 
 
@@ -52,7 +89,6 @@ $("#forms").submit(function(){
 
 
   
-
 
 
 
