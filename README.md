@@ -13,8 +13,8 @@ The project may not work as expected.
 #### TECHNOLOGY USED.
 HTML,
 CSS,
-JAVASCRIPT
-JQUERY
+JAVASCRIPT,
+JQUERY,
 BOOTSTRAP.
 
 #### CONTACT INFORMATION.
