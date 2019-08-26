@@ -29,28 +29,22 @@ $("#button").click(function(){
     event.preventDefault();
 });
 $("#forms").submit(function(){
+      alert("Thanks for contacting us");
+      event.preventDefault();
+  });
 
-  if($("#name").val = ""){
- alert("input name");
-  }
-  else if($("#email").val = ""){
-      alert("input email");
-  }
-  else if($("#text").val = ""){
-      alert("Thanks for contacting us")
-  }
+
+
 
   
 
 
 
 
-    event.preventDefault();
     
 
           
 
-});
 
 
 
