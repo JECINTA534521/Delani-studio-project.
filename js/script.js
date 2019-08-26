@@ -27,7 +27,12 @@ $(".product").click(function(){
 
 $("#button").click(function(){
     event.preventDefault();
-})
+});
+$("#forms").submit(function(){
+    alert("Thanks for contacting us")
+    event.preventDefault();
+
+});
 
 
 
