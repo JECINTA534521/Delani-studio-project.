@@ -28,26 +28,6 @@ $(".product").click(function(){
 $("#button").click(function(){
     event.preventDefault();
 });
-<<<<<<< HEAD
-$("#forms").submit(function(){
-      alert("Thanks for contacting us");
-      event.preventDefault();
-  });
-
-
-
-
-  
-
-
-
-
-    
-
-          
-
-
-=======
 
   $("#button").click(function(event){
       event.preventDefault();
@@ -66,9 +46,9 @@ $("#forms").submit(function(){
       else{
           alert(email + " Thanks for contacting us")
       }
->>>>>>> master
 
-  })
+  });
+});
 
 
 
@@ -92,4 +72,4 @@ $("#forms").submit(function(){
 
 
 
-});   
+   
